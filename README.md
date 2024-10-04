@@ -1,3 +1,3 @@
-# pigDieGame
+# Pig die game
 
 Second project made for the Udemy JS dev course
